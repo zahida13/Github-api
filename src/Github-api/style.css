@@ -1,0 +1,248 @@
+/* html {
+    font-size: 90.5%;
+  }
+  
+  body {
+    background-color: #2980b9;
+    overflow-x: hidden;
+    min-height: auto;
+    width: 100%;
+    
+    color: aliceblue;
+    font-family: "Raleway", sans-serif;
+  }
+  .container-fluid {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .main-div {
+    min-height: 500px;
+    max-height: fit-content;
+    width: 400px;
+    background-color: rgba(255, 255, 255, .75);
+    display: flex;
+    justify-content:center;
+    margin:  50px auto;
+    border-radius: 1rem;
+  } */
+  /* .App {
+    text-align: center;
+  }
+  
+  .App-link {
+    color: #8be3fb;
+  }
+  
+  
+  
+  p {
+    font-size: 4rem;
+  }
+*/ 
+  /* h1 {
+    font-size: 3rem;
+    text-transform: capitalize;
+    color: #fff;
+    width: 400px;
+    margin-top: 10px;
+    text-align: center;
+    padding: 15px;
+    background-color: #61a5d3;
+  } */
+  /*
+  .h1style {
+    min-width: 20rem;
+    width: 60rem;
+    padding: 2rem 2rem;
+    background-color: azure;
+    color: #2980b9;
+    border-radius: 5rem;
+    box-shadow: 0rem 2rem 2rem -1.5rem rgba(0, 0, 0, 0.5);
+    margin-top: 2rem;
+    text-align: center;
+  }
+  */
+  /* .btn,
+  .btnInner {
+    margin: auto;
+    border: none;
+    outline: none;
+    padding: px  ;
+    background-color: #2980b9;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 1rem;
+    font-size: 1rem;
+  }
+  
+  .btnInner {
+    padding: 0.7rem 1.5rem;
+    font-size: 1.5rem;
+    margin-left: 4rem;
+  }
+  
+   .btn:hover {
+    background-color: #1aad59;
+    color: #ffffff;
+
+  } 
+  
+   form {
+    padding: 2rem;
+    outline: none;
+    text-align: center;
+  } */
+  /*
+  form label {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    text-align: left;
+    text-transform: capitalize;
+  }
+  */
+   /* input {
+    max-width: 20rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    text-align: left;
+    border: none;
+    line-height: 1.2rem;
+    margin-top: 0.3rem;
+    margin-right: 5px;
+    padding: 0.8rem;
+    outline: none;
+  }
+  
+  button {
+    border: none;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    cursor: pointer;
+    outline: none;
+  }
+   */
+   
+  /* .showDataStyle {
+    min-width: 20rem;
+    width: 60rem;
+    min-height: 2rem;
+    padding: 1rem;
+    background: rgb(68, 116, 207);
+    color: aliceblue;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 1rem -0.8rem rgba(0, 0, 0, 0.5);
+  } */
+  
+  /* .showDataStyle p {
+    font-size: 1.5rem;
+  } */
+  
+  /* .showDataStyle p:first-child {
+    font-weight: bold;
+  }  */
+  /* body {
+    background-color: #b3e5fc;
+    border-radius: 10px;
+    font-family: "Raleway", sans-serif;
+  }
+  
+  h2 {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .textLeft {
+    text-align: left;
+  }
+  
+  .loadingDiv {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+  }
+  
+  .card {
+    margin-left: 10px;
+    max-width: 350px;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  .image {
+    min-width: 140px;
+    margin-right: 5px;
+  }
+  
+  .stats {
+    background: #f2f5f8 !important;
+    color: #000 !important;
+  }
+  
+  .articles {
+    font-size: 10px;
+    color: #a1aab9;
+  }
+  
+  .number1 {
+    font-weight: 500;
+  }
+  
+  .followers {
+    font-size: 10px;
+    color: #a1aab9;
+  }
+  
+  .number2 {
+    font-weight: 500;
+  }
+  
+  .rating {
+    font-size: 10px;
+    color: #a1aab9;
+  }
+  
+  .number3 {
+    font-weight: 500;
+  } */
+
+  /* ol {
+    width: 80%;
+  }
+  ol li {
+    font-weight: 600;
+    color: #eee;
+    line-height: 1.5rem;
+    padding: 8px 8px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    background: rgb(227, 142, 157);
+    margin: 5px 0px;
+    display: flex;
+    align-items:center;
+  }
+
+  svg {
+    color: #61a5d3 ;
+    background-color: #fff;
+    border-radius: 1rem;
+    width: 25px;
+    height: 25px;
+    padding: 3px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  svg:hover
+
+   {
+    color: red ;
+    transition: .3s;
+  }
+   */
